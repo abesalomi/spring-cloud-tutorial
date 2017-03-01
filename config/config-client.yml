@@ -1,0 +1,5 @@
+# .yml file
+---
+hello:
+  to:
+    client: Hi!
