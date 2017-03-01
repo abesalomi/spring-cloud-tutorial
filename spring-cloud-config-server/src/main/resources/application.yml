@@ -3,5 +3,5 @@ spring:
     config:
       server:
         git:
-          uri: https://abesalomi@bitbucket.org/combal/spring-cloudconfig.git
+          uri: https://github.com/abesalomi/spring-cloud-tutorial.git
           search-paths: config
