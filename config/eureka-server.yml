@@ -4,8 +4,8 @@ server:
   port: 8011
 eureka:
   instance:
-    statusPageUrlPath: ${management.contextPath}/info
-    healthCheckUrlPath: ${management.contextPath}/info
+#    statusPageUrlPath: ${management.contextPath}/info
+#    healthCheckUrlPath: ${management.contextPath}/info
     hostname: localhost
 #  client:
 #    registerWithEureka: false
