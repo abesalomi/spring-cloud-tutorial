@@ -1,0 +1,14 @@
+# .yml file
+---
+server:
+  port: 8001
+eureka:
+  instance:
+    statusPageUrlPath: ${management.contextPath}/info
+    healthCheckUrlPath: ${management.contextPath}/info
+    hostname: localhost
+#  client:
+#    registerWithEureka: false
+#    fetchRegistry: false
+#    serviceUrl:
+#      defaultZone: http://server:port/eureka
