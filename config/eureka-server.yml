@@ -1,7 +1,7 @@
 # .yml file
 ---
 server:
-  port: 8001
+  port: 8011
 eureka:
   instance:
     statusPageUrlPath: ${management.contextPath}/info
