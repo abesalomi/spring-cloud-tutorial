@@ -3,3 +3,5 @@
 hello:
   to:
     client: Hi!!!
+server:
+  port: 8001
